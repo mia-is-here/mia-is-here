@@ -8,6 +8,9 @@
 \
 [![trophy](https://github-profile-trophy.vercel.app/?username=mia-is-here&theme=nord&row=1&margin-w=8)](https://github.com/sowmya-hub/github-profile-trophy)
 
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=sowmya-hub&theme=nord&row=1&margin-w=8)](https://github.com/sowmya-hub/github-profile-trophy)
+ -->
+
 <!---
 mia-is-here/mia-is-here is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
