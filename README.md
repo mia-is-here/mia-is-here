@@ -5,7 +5,7 @@ You can click the Preview link to take a look at your changes.
 - 👋 Hi, I’m Mia
 - 👀 I’m interested in programming fundamentals, web development and machine learning
 - 🌱 I’m currently learning to code, build my own websites and math!
-- 💞️ I’m looking to collaborate on independent projects
+- 💞️ I’m looking to collaborate on interesting projects and hackathons 
 - 😄 Pronouns: they/them
 - ⚡ Fun fact: I'm a writer 🥳
 
