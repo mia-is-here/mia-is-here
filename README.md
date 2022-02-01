@@ -16,8 +16,9 @@ You can click the Preview link to take a look at your changes.
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sowmya-hub&theme=blueberry_duo)](https://git.io/streak-stats)
 
 [Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshibar&show_icons=true&theme=dracula)
+[Mia's GitHub stats](https://github-readme-stats.vercel.app/api?username=harshibar&show_icons=true&theme=dracula)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshibar&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mia-is-here&layout=compact)](https://github.com/mia-is-here)
 
 <!-- - look
 - ie -->
