@@ -10,8 +10,7 @@
 - 💬 Ask me about tech trends! 
 - 😄 Pronouns: they/them 
 
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mia-is-here)  
+<!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mia-is-here)   -->
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mia-is-here&row=1&margin-w=9)](https://github.com/ryo-ma/github-profile-trophy)
 
