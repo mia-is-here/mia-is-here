@@ -5,9 +5,6 @@
 
 - 🔭 I’m currently working on my backend skills 
 - 🌱 I’m currently learning ui/ux 
-- 👯 I’m looking to collaborate on hackathons 
-- 🤔 I’m looking for help with machine learning 
-- 💬 Ask me about tech trends! 
 - 😄 Pronouns: they/them 
 
 <!-- [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/mia-is-here)   -->
