@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mia
-#### I am a passionate learner, looking to break into the tech industry!
+#### I am a passionate learner, looking to break into the tech industry
 <!-- ![I am a passionate learner, looking to break into the tech industry!](https://arturss) -->
 
 
